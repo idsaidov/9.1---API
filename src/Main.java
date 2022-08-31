@@ -8,7 +8,7 @@ public class Main {
         post.patronymic = "Иванович";
         post.phone = "+7 (999)-999-99-99";
         post.surname = "Иванов";
-        post.subscription = "true";
+        post.subscription = true;
 
         post.birthday.day = 13;
         post.birthday.month = 6;
